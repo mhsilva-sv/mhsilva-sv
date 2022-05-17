@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @mhsilva-sv
-- 👀 I’m interested in Sotware Development
+- 👀 I’m interested in Software Development
